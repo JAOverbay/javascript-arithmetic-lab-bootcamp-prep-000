@@ -1,3 +1,3 @@
 function add(a, b) {
-  return a + B()
+  return (a + b)
 }
